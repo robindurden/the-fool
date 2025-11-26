@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: "/the-fool/",
   title: "THE FOOL",
   description: "Notes for rebuilding the understanding of computers from 0 and 1.",
   themeConfig: {
