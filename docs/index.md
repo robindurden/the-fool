@@ -5,11 +5,11 @@ layout: home
 hero:
   name: "THE FOOL"
   text: "Notes for rebuilding the understanding of computers from 0 and 1."
-  tagline: My great project tagline
+  tagline: 从 0 和 1 开始学习世界
   actions:
     - theme: brand
       text: Get Started
-      link: /0-logic/01_truth-table
+      link: /0-logic/01_真值表
     - theme: brand
       text: Markdown Examples
       link: /markdown-examples

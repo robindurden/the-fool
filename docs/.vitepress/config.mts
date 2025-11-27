@@ -16,7 +16,7 @@ export default defineConfig({
       {
         text: 'Logic Fundamentals',
         items: [
-          { text: 'Truth Table', link: '/0-logic/01_truth-table' },
+          { text: '真值表', link: '/0-logic/01_真值表' },
         ]
       },
       {
